@@ -32,4 +32,6 @@ with mp_face_detection.FaceDetection(
       break
 cap.release()
 
-print("Hello World")
+
+
+
