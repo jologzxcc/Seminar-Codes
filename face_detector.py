@@ -31,3 +31,5 @@ with mp_face_detection.FaceDetection(
     if cv2.waitKey(1) & 0xFF == ord('q'):
       break
 cap.release()
+
+print("Hello World")
